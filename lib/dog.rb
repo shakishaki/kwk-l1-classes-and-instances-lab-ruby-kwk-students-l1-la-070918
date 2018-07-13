@@ -5,8 +5,8 @@ class Dog
     @fido = fido
     @snoopy = snoopy
     @lassie = lassie
+  end
 end
-
 class_one = Dog.new("fido","snoopy", "lassie")
 
  puts class_one.fido
