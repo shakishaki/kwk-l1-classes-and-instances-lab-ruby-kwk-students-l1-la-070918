@@ -12,5 +12,3 @@ class_one = Dog.new("fido","snoopy", "lassie")
  puts class_one.fido
  puts class_one.snoopy
  puts class_one.lassie
- 
-end
